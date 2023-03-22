@@ -7,7 +7,7 @@ window/mac看左边
   1. 下载软件：https://wwxd.lanzoue.com/i6sfB0qackcb  密码: i7fz
   2. 安装软件并启动
   3. 点击配置
-[[图片]](http://jaho.fun/1.png)
+![image](http://jaho.fun/1.png)
   4. 点击右上角加号
 [图片]
   5. url输入 ”【订】【阅】链接“  然后点击右上角保存图标 （链接复制粘贴时最后的换行要去掉）  （不要打开钉阅不要打开钉阅链接开头为=>   https://
