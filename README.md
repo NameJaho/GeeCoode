@@ -25,7 +25,7 @@ window/mac看左边
   7. 回到首页 点击启动即可
   8. 待里。选项：点击进入，切换杰点 选择日ben漂亮国。如果打开不了官网 一般是 杰点问题
 
-![image](https://github.com/NameJaho/GeeCoode/blob/main/img/a5.jpg)
+![image](https://github.com/NameJaho/GeeCoode/blob/main/img/a5.jpeg)
 
   9. 登陆链接：https://chat.openai.com/auth/login
     1. 输入帐号密码
